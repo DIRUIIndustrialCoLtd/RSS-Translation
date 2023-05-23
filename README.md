@@ -12,3 +12,4 @@
 ## 已转换翻译源
 
  - source001 [https://news.opensuse.org/feed](https://news.opensuse.org/feed) -> [opensuse.xml](rss/opensuse.xml)
+ - source002 [https://lifehacker.com/rss](https://lifehacker.com/rss) -> [lifehacker.xml](rss/lifehacker.xml)
